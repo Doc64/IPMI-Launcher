@@ -81,6 +81,7 @@ The simplest way to get there:
 ├── _internal\         (PyInstaller files)
 └── ... (other build artifacts)
 
+
 6. Once copied, you can uninstall Java 7 from your system via
    **Settings → Apps** — the launcher uses its own copy at `IPMILauncher\jre7\`.
 
