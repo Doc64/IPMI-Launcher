@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# venv
+venv/
+env/
+.venv/
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Bundled JRE — users provide their own (Oracle license)
+jre7/
+
+# Runtime artifacts
+working/
+settings.json
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Optional: keep an icon if you have one
+!icon.ico
